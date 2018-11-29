@@ -4,3 +4,11 @@ Julius é uma extensão para o chrome que ajuda você a economizar dinheiro, qua
 e mostra uma mensagem de reflexão =D
 
 ![Example](example1.png)
+
+## Instalação
+
+```shell
+wget https://raw.githubusercontent.com/andrewaguiar/chrome-extention-julius/master/chrome-extention-julius.crx
+```
+
+Abra o chrome e vá em `chrome://extensions/`, arraste e solte o arquivo nessa página.
