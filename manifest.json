@@ -1,0 +1,23 @@
+{
+  "name": "Julius",
+  "version": "1.0",
+  "description": "Julius",
+  "authors": [{
+    "name": "Andrew S Aguiar",
+    "email": "andrewaguiar6@gmail.com"
+  }],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "run_at": "document_idle",
+      "all_frames": true,
+      "js": ["julius.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "manifest_version": 2
+}
