@@ -11,4 +11,4 @@ e mostra uma mensagem de reflexão =D
 wget https://raw.githubusercontent.com/andrewaguiar/chrome-extention-julius/master/chrome-extention-julius.crx
 ```
 
-Abra o chrome e vá em `chrome://extensions/`, arraste e solte o arquivo nessa página.
+Abra o chrome e vá em `chrome://extensions/`, habilite o modo `Desenvolvedor`, arraste e solte o arquivo nessa página.
