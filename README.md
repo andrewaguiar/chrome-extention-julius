@@ -12,3 +12,7 @@ wget https://raw.githubusercontent.com/andrewaguiar/chrome-extention-julius/mast
 ```
 
 Abra o chrome e vá em `chrome://extensions/`, habilite o modo `Desenvolvedor`, arraste e solte o arquivo nessa página.
+
+## Desinstalação
+
+Você pode simplesmente desabilitar ou remover o plugin em `chrome://extensions/`.
